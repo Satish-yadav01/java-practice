@@ -1,3 +1,5 @@
+package array;
+
 public class ReverseArray {
     public static void reverseArray(int a[]){
         int start = a[0];
